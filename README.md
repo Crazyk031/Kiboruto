@@ -4,6 +4,10 @@ Create a GPHWW(General Purpose Hardware Wallet) that is private, secure, incogni
 
 ## Implementation
 
+You can install Samourai Wallet on an Android that will always be offline to create a cold storage and still use the outside tools to watch/depost/withdraw. _The Samourai team is working on better solutions to offline storage via the app :)_
+
+OR
+
 A [TAILS](https://tails.boum.org/index.en.html) USB(s) with a suite of tools allowing you to interact with the Bitcoin blockchain. All while stressing privacy #1!
 
 **Please read this to understand the security limitations of TAILS:**
