@@ -4,7 +4,7 @@ Create a GPHWW(General Purpose Hardware Wallet) that is private, secure, incogni
 
 ## Implementation
 
-You can install Samourai Wallet on an Android that will always be offline to create a cold storage and still use the outside tools to watch/depost/withdraw. _The Samourai team is working on better solutions to offline storage via the app :)_
+You can install Samourai Wallet on an Android device that will always be offline to create a cold storage and still use the outside tools to watch/depost/withdraw. _The Samourai team is working on better solutions to offline storage via the app :)_
 
 OR
 
