@@ -61,6 +61,10 @@ For private mixing. Perfeably backed by [Whirlpool CLI](https://github.com/Samou
 
 Can be used to generate seeds offline
 
+- [**EFF Random Passphrases**](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) 
+
+Used to generate random passphrases
+
 ## Interacting w/Cold Storage
 
 ### Watching/Deposits
