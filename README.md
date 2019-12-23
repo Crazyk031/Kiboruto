@@ -1,3 +1,5 @@
+_**Kībōruto = "Key Vault" in Japanese**_
+
 # Goal
 
 Create a GPHWW(General Purpose Hardware Wallet) that is private, secure, incognito & portable. All while implementing Open Source Software
