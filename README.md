@@ -4,6 +4,8 @@ _**Kībōruto = "Key Vault" in Japanese**_
 
 Create a GPHWW(General Purpose Hardware Wallet) that is private, secure, incognito & portable. All while implementing Open Source Software
 
+This setup will also allow you to download and build from source the Samourai Wallet app, all done through Tor! 
+
 _End goal is to have an IMG that can be etched to a drive with all the necessary tools already on it_
 
 ## Implementation
