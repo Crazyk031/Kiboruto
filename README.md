@@ -29,7 +29,7 @@ If the BIOS of the computer has been compromised, then it might also be unsafe t
 **Hardware**
 
 - Secure Desktop/Laptop
-- 8GB+ USB Stick(s) 
+- 2+ 16GB+ USB drives
 - 4-5 Dice
 
 **Setup**
